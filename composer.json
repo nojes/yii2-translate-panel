@@ -32,7 +32,7 @@
         "uran1980/yii2-igrowl-widget": "*",
         "uran1980/yii2-chosen-select": "*",
         "uran1980/yii2-bootstrap-confirmation": "*",
-        "uran1980/yii2-jquery-essential": "*"
+        "nojes/yii2-jquery-essential": "*"
     },
     "autoload": {
         "psr-4": {
